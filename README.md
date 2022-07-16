@@ -2,7 +2,7 @@
 
 ## Features
 
-The repo is spawned with
+The repository is spawned with
 
 * Renovate config file
 * Super Linter that runs on every push
