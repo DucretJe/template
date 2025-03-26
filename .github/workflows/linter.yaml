@@ -4,6 +4,11 @@ name: "💫 Super-Linter"
 on:
   push:
 
+permissions:
+  contents: read
+  packages: read
+  statuses: write
+
 jobs:
   linting:
     name: 💫 super-linter
