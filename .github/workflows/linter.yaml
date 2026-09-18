@@ -12,7 +12,7 @@ permissions:
 jobs:
   linting:
     name: 💫 super-linter
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     steps:
       - name: Checkout Code
         uses: actions/checkout@v5
